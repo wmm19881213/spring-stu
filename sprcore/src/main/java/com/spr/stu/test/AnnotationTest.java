@@ -7,6 +7,7 @@ import org.springframework.context.ApplicationContext;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 
 public class AnnotationTest {
+
     @Test
    public void testAnnotation(){
        ApplicationContext context = new AnnotationConfigApplicationContext(AnnotationConfig.class);
