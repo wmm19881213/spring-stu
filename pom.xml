@@ -43,7 +43,7 @@
             </dependency>
         </dependencies>
     </dependencyManagement>
-    <dependencies>
+    <!--<dependencies>
         <dependency>
             <groupId>org.springframework</groupId>
             <artifactId>spring-aop</artifactId>
@@ -64,7 +64,7 @@
             <groupId>org.springframework</groupId>
             <artifactId>spring-test</artifactId>
         </dependency>
-    </dependencies>
+    </dependencies>-->
     <build>
 
         <plugins>
